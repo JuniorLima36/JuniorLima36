@@ -1,8 +1,11 @@
 ## Olá! 👋  
 
-Me chamo Jailson, mas pode me chamar de "Junior"! 🚀  
-Sou desenvolvedor Front-End apaixonado por tecnologia e criação de interfaces interativas. 💻✨  
-Estou sempre em busca de novos desafios e aprendizados para aprimorar minhas habilidades.  
+<h3>
+  Me chamo Jailson, mas pode me chamar de "Junior"! 🚀  <br />
+  Sou desenvolvedor Front-End apaixonado por tecnologia e criação de interfaces interativas. 💻✨ <br /> 
+  Estou sempre em busca de novos desafios e aprendizados para aprimorar minhas habilidades.  
+</h3>
+
 
 ---
 
